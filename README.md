@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Waryur_69
-- 👀 I’m interested in learning my first language
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Fred Mark Baldeviso
+- 👀 I’m interested in becoming a Software Engineer
+- 🌱 I’m currently learning Web Development through The Odin Project and FreeCodeCamp
 
 
 <!---
